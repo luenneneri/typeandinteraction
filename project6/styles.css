@@ -1,0 +1,28 @@
+.body{
+  
+}
+h1{
+  font-family: 'Baskervville';
+  color: #444;
+  font-size: 24px;
+  float:center;
+  margin-top:40px;
+  text-align:center;
+}
+
+.container{
+  
+}
+.box{
+  border: 2px solid black;
+  border-radius:50%;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 20px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: 33%;
+  margin-top:20vh;
+}

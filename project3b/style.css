@@ -1,0 +1,39 @@
+.base-wrapper{
+  width:900px;
+  margin:0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+
+.one{
+  width:200px;
+  height:200px;
+  background-color:yellow;  
+  margin:20px;
+  display:inline-block;
+}
+.two{
+  width:200px;
+  height:200px;
+  border-radius:50%;
+  background-color:navy;  
+  margin:20px;
+  display:inline-block;
+}
+.three{
+  width:150px;
+  height:150px;
+  background-color: pink; 
+  float: right;
+  margin:50px;
+  display:inline-block;
+  transform: rotate(45deg);
+}
+
+.placeholder{
+  width: 80px;
+  height: 1800px;
+  background-color: #FFF;
+}

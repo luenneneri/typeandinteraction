@@ -1,0 +1,832 @@
+
+body{
+  background-color: black;
+  color:white;
+  font-family: 'Helvetica';
+  font-size:30px;
+  transition: all .5s;
+}
+h1{
+  text-align:left;
+  font-size: 20px;
+  text-transform:uppercase;
+  letter-spacing: 10px;
+  font-weight:100;
+  margin-left: 80px;
+  margin-top:10vh;
+  position:fixed;
+}
+
+p{
+  text-align:left;
+  font-size: 60px;
+  margin-left: 80px;
+  margin-top:41vh;
+  position:fixed;
+  letter-spacing: 10px;
+}
+.caption{
+  text-align:left;
+  font-size: 14px;
+  margin-left: 80px;
+  margin-top:50vh;
+  position:fixed;
+  letter-spacing: 1px;
+}
+.captiontwo{
+  display:none;
+}
+.comic{
+  font-family: 'Comic Sans MS';
+}
+.one{
+    display:inline;
+}  
+.two{
+    display:none;
+}
+.three{
+    display:none;
+}
+
+.four{
+    display:none;
+}
+
+.five{
+    display:none;
+}
+
+.six{
+    display:none;
+}
+.seven{
+    display:none;
+}
+.eight{
+    display:none;
+}
+.nine{
+    display:none;
+}
+.ten{
+    display:none;
+}
+.eleven{
+    display:none;
+}
+
+
+@media only screen and (min-width: 260px) and (max-width: 1360px){
+body{
+  background-color: navy;
+  color:white;
+  font-family: 'Helvetica';
+  font-size:30px;
+  transition: all .3s
+}
+h1{
+  text-align:left;
+  font-size: 20px;
+  text-transform:uppercase;
+  letter-spacing: 10px;
+  font-weight:100;
+  margin-left: 80px;
+  margin-top:10vh;
+  position:fixed;
+}
+
+p{
+  text-align:left;
+  font-size: 60px;
+  margin-left: 80px;
+  margin-top:40vh;
+  position:fixed;
+  letter-spacing: 10px;
+}
+.comic{
+  font-family: 'Comic Sans MS';
+}
+.one{
+    display:none;
+}  
+.two{
+    display:inline;
+}
+.three{
+    display:none;
+}
+.four{
+    display:none;
+}
+
+.five{
+    display:none;
+}
+
+.six{
+    display:none;
+}
+.seven{
+    display:none;
+}
+.eight{
+    display:none;
+}
+.nine{
+    display:none;
+}
+.ten{
+    display:none;
+}
+.eleven{
+    display:none;
+}
+}
+
+
+@media only screen and (min-width: 260px) and (max-width: 1160px){
+body{
+  background-color: navy;
+  color:white;
+  font-family: 'Helvetica';
+  font-size:30px;
+  transition: all .3s;
+}
+h1{
+  text-align:left;
+  font-size: 20px;
+  text-transform:uppercase;
+  letter-spacing: 10px;
+  font-weight:100;
+  margin-left: 80px;
+  margin-top:10vh;
+  position:fixed;
+}
+
+p{
+  text-align:left;
+  font-size: 60px;
+  margin-left: 80px;
+  margin-top:40vh;
+  position:fixed;
+  letter-spacing: 10px;
+}
+.caption{
+  text-align:left;
+  font-size: 14px;
+  margin-left: 80px;
+  margin-top:50vh;
+  position:fixed;
+  letter-spacing: 1px;
+}
+.comic{
+  font-family: 'Comic Sans MS';
+}
+.one{
+    display:none;
+}  
+.two{
+    display:none;
+}
+.three{
+    display:inline;
+}
+.four{
+    display:none;
+}
+
+.five{
+    display:none;
+}
+
+.six{
+    display:none;
+}
+.seven{
+    display:none;
+}
+.eight{
+    display:none;
+}
+.nine{
+    display:none;
+}
+.ten{
+    display:none;
+}
+.eleven{
+    display:none;
+}
+}
+
+@media only screen and (min-width: 260px) and (max-width: 960px){
+body{
+  background-color: blue;
+  color:white;
+  font-family: 'Helvetica';
+  font-size:30px;
+  transition: all .3s;
+}
+h1{
+  text-align:left;
+  font-size: 20px;
+  text-transform:uppercase;
+  letter-spacing: 10px;
+  font-weight:100;
+  margin-left: 80px;
+  margin-top:10vh;
+  position:fixed;
+}
+
+p{
+  text-align:left;
+  font-size: 60px;
+  margin-left: 80px;
+  margin-top:40vh;
+  position:fixed;
+  letter-spacing: 10px;
+}
+.caption{
+  
+  text-align:left;
+  font-size: 14px;
+  margin-left: 80px;
+  margin-top:50vh;
+  position:fixed;
+  letter-spacing: 1px;
+}
+.comic{
+  font-family: 'Comic Sans MS';
+}
+.one{
+    display:none;
+}  
+.two{
+    display:none;
+}
+.three{
+    display:none;
+}
+.four{
+    display:inline;
+}
+
+.five{
+    display:none;
+}
+
+.six{
+    display:none;
+}
+.seven{
+    display:none;
+}
+.eight{
+    display:none;
+}
+.nine{
+    display:none;
+}
+.ten{
+    display:none;
+}
+.eleven{
+    display:none;
+}
+}
+@media only screen and (min-width: 260px) and (max-width: 860px){
+body{
+  background-color: blue;
+  color:white;
+  font-family: 'Helvetica';
+  font-size:30px;
+  transition: all .3s;
+}
+h1{
+  text-align:left;
+  font-size: 20px;
+  text-transform:uppercase;
+  letter-spacing: 10px;
+  font-weight:100;
+  margin-left: 80px;
+  margin-top:10vh;
+  position:fixed;
+}
+
+p{
+  text-align:left;
+  font-size: 60px;
+  margin-left: 80px;
+  margin-top:40vh;
+  position:fixed;
+  letter-spacing: 10px;
+}
+.caption{
+  text-align:left;
+  font-size: 14px;
+  margin-left: 80px;
+  margin-top:50vh;
+  position:fixed;
+  letter-spacing: 1px;
+}
+.comic{
+  font-family: 'Comic Sans MS';
+}
+.one{
+    display:none;
+}  
+.two{
+    display:none;
+}
+.three{
+    display:none;
+}
+.four{
+    display:none;
+}
+
+.five{
+    display:inline;
+}
+
+.six{
+    display:none;
+}
+.seven{
+    display:none;
+}
+.eight{
+    display:none;
+}
+.nine{
+    display:none;
+}
+.ten{
+    display:none;
+}
+.eleven{
+    display:none;
+}
+}
+
+@media only screen and (min-width: 260px) and (max-width: 760px){
+body{
+  background-color: darkturquoise;
+  color:white;
+  font-family: 'Helvetica';
+  font-size:30px;
+  transition: all .3s;
+}
+h1{
+  text-align:left;
+  font-size: 20px;
+  text-transform:uppercase;
+  letter-spacing: 10px;
+  font-weight:100;
+  margin-left: 80px;
+  margin-top:10vh;
+  position:fixed;
+}
+
+p{
+  text-align:left;
+  font-size: 60px;
+  margin-left: 80px;
+  margin-top:40vh;
+  position:fixed;
+  letter-spacing: 10px;
+}
+.caption{
+  text-align:left;
+  font-size: 14px;
+  margin-left: 80px;
+  margin-top:50vh;
+  position:fixed;
+  letter-spacing: 1px;
+}
+.comic{
+  font-family: 'Comic Sans MS';
+}
+.one{
+    display:none;
+}  
+.two{
+    display:none;
+}
+.three{
+    display:none;
+}
+.four{
+    display:none;
+}
+
+.five{
+    display:none;
+}
+
+.six{
+    display:inline;
+}
+.seven{
+    display:none;
+}
+.eight{
+    display:none;
+}
+.nine{
+    display:none;
+}
+.ten{
+    display:none;
+}
+.eleven{
+    display:none;
+}
+}
+
+@media only screen and (min-width: 260px) and (max-width: 660px){
+body{
+  background-color: darkturquoise;
+  color:white;
+  font-family: 'Helvetica';
+  font-size:30px;
+  transition: all .3s;
+}
+h1{
+  text-align:left;
+  font-size: 20px;
+  text-transform:uppercase;
+  letter-spacing: 10px;
+  font-weight:100;
+  margin-left: 80px;
+  margin-top:10vh;
+  position:fixed;
+}
+
+p{
+  text-align:left;
+  font-size: 60px;
+  margin-left: 80px;
+  margin-top:40vh;
+  position:fixed;
+  letter-spacing: 10px;
+}
+.caption{
+  text-align:left;
+  font-size: 14px;
+  margin-left: 80px;
+  margin-top:50vh;
+  position:fixed;
+  letter-spacing: 1px;
+}
+.comic{
+  font-family: 'Comic Sans MS';
+}
+.one{
+    display:none;
+}  
+.two{
+    display:none;
+}
+.three{
+    display:none;
+}
+.four{
+    display:none;
+}
+
+.five{
+    display:none;
+}
+
+.six{
+    display:none;
+}
+.seven{
+    display:inline;
+}
+.eight{
+    display:none;
+}
+.nine{
+    display:none;
+}
+.ten{
+    display:none;
+}
+.eleven{
+    display:none;
+}
+}
+
+@media only screen and (min-width: 260px) and (max-width: 610px){
+body{
+  background-color: slateblue;
+  color:white;
+  font-family: 'Helvetica';
+  font-size:30px;
+  transition: all .3s;
+}
+h1{
+  text-align:left;
+  font-size: 20px;
+  text-transform:uppercase;
+  letter-spacing: 10px;
+  font-weight:100;
+  margin-left: 80px;
+  margin-top:10vh;
+  position:fixed;
+}
+
+p{
+  text-align:left;
+  font-size: 60px;
+  margin-left: 80px;
+  margin-top:40vh;
+  position:fixed;
+  letter-spacing: 10px;
+}
+.caption{
+  text-align:left;
+  font-size: 14px;
+  margin-left: 80px;
+  margin-top:50vh;
+  position:fixed;
+  letter-spacing: 1px;
+}
+.comic{
+  font-family: 'Comic Sans MS';
+}
+.one{
+    display:none;
+}  
+.two{
+    display:none;
+}
+.three{
+    display:none;
+}
+.four{
+    display:none;
+}
+
+.five{
+    display:none;
+}
+
+.six{
+    display:none;
+}
+.seven{
+    display:none;
+}
+.eight{
+    display:inline;
+}
+.nine{
+    display:none;
+}
+.ten{
+    display:none;
+}
+.eleven{
+    display:none;
+}
+}
+
+@media only screen and (min-width: 260px) and (max-width: 560px){
+body{
+  background-color: slateblue;
+  color:white;
+  font-family: 'Helvetica';
+  font-size:30px;
+  transition: all .3s;
+}
+h1{
+  text-align:left;
+  font-size: 20px;
+  text-transform:uppercase;
+  letter-spacing: 10px;
+  font-weight:100;
+  margin-left: 80px;
+  margin-top:10vh;
+  position:fixed;
+}
+
+p{
+  text-align:left;
+  font-size: 60px;
+  margin-left: 80px;
+  margin-top:40vh;
+  position:fixed;
+  letter-spacing: 10px;
+}
+.caption{
+  text-align:left;
+  font-size: 14px;
+  margin-left: 80px;
+  margin-top:50vh;
+  position:fixed;
+  letter-spacing: 1px;
+}
+.comic{
+  font-family: 'Comic Sans MS', cursive;
+}
+.one{
+    display:none;
+}  
+.two{
+    display:none;
+}
+.three{
+    display:none;
+}
+.four{
+    display:none;
+}
+
+.five{
+    display:none;
+}
+
+.six{
+    display:none;
+}
+.seven{
+    display:none;
+}
+.eight{
+    display:none;
+}
+.nine{
+    display:inline;
+}
+.ten{
+    display:none;
+}
+.eleven{
+    display:none;
+}
+}
+
+@media only screen and (min-width: 260px) and (max-width: 520px){
+body{
+  background-color: magenta;
+  color:white;
+  font-family: 'Helvetica';
+  font-size:30px;
+  transition: all .3s;
+}
+h1{
+  text-align:left;
+  font-size: 20px;
+  text-transform:uppercase;
+  letter-spacing: 10px;
+  font-weight:100;
+  margin-left: 80px;
+  margin-top:10vh;
+  position:fixed;
+}
+
+p{
+  text-align:left;
+  font-size: 60px;
+  margin-left: 80px;
+  margin-top:40vh;
+  position:fixed;
+  letter-spacing: 10px;
+}
+.caption{
+  text-align:left;
+  font-size: 14px;
+  margin-left: 80px;
+  margin-top:50vh;
+  position:fixed;
+  letter-spacing: 1px;
+}
+.comic{
+  font-family: 'Comic Sans MS';
+}
+.one{
+    display:none;
+}  
+.two{
+    display:none;
+}
+.three{
+    display:none;
+}
+.four{
+    display:none;
+}
+
+.five{
+    display:none;
+}
+
+.six{
+    display:none;
+}
+.seven{
+    display:none;
+}
+.eight{
+    display:none;
+}
+.nine{
+    display:none;
+}
+.ten{
+    display:inline;
+}
+.eleven{
+    display:none;
+}
+}
+
+@media only screen and (max-width: 420px){
+body{
+  background-color: deeppink	;
+  color:white;
+  font-family: 'Helvetica';
+  font-size:30px;
+  transition: all .3s;
+}
+h1{
+  text-align:left;
+  font-size: 12px;
+  text-transform:uppercase;
+  letter-spacing: 10px;
+  font-weight:100;
+  margin-left: 40px;
+  margin-top:10vh;
+  position:fixed;
+}
+
+p{
+  text-align:center;
+  font-size: 40px;
+  margin-left: 40px;
+  margin-top:40vh;
+  position:fixed;
+  letter-spacing: 10px;
+  filter: drop-shadow(10px 10px 4px #4444dd);;
+}
+.caption{
+  display:none;
+  text-align:left;
+  font-size: 10px;
+  margin-left: 40px;
+  margin-top:50vh;
+  position:fixed;
+  letter-spacing: 1px;
+}
+  .captiontwo{
+    display:inline;
+    text-align:left;
+  font-size: 10px;
+  margin-left: 40px;
+  margin-top:50vh;
+  position:fixed;
+  letter-spacing: 1px;
+  }
+.comic{
+  font-family: 'Comic Sans MS';
+}
+.one{
+    display:none;
+}  
+.two{
+    display:none;
+}
+.three{
+    display:none;
+}
+.four{
+    display:none;
+}
+
+.five{
+    display:none;
+}
+
+.six{
+    display:none;
+}
+.seven{
+    display:none;
+}
+.eight{
+    display:none;
+}
+.nine{
+    display:none;
+}
+.ten{
+    display:none;
+}
+.eleven{
+    display:inline;
+}
+}
