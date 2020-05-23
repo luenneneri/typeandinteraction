@@ -1,0 +1,27 @@
+body{
+  background-color:darkgreen;
+  color:gold;
+  text-align:center;
+  font-family: 'Didot';
+}
+h1{
+  margin: 0 auto;
+  margin-top:30vh;
+  font-size:120px;
+  line-height: 100px;
+  font-weight:100;
+  max-width: 700px;
+}
+h2{
+  font-family:'Futura';
+  font-size:40px;
+  color:lightyellow;
+  font-weight:200;
+}
+h3{
+  font-family:'Futura';
+  font-size:40px;
+  color:lightyellow;
+  margin-top:-20;
+  font-weight:200;
+}
